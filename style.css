@@ -1,0 +1,68 @@
+h1{
+    background-color: aqua;
+    width: 500px;
+    line-height: 50px;
+    border-radius: 10px;
+    box-shadow: 0px 5px 15px black;
+}
+td{
+    width: 75px;
+    height: 80px;
+    border-radius: 4px;
+    box-shadow: 0px 2px 8px black;
+
+}
+
+.number{
+    line-height: 0px;
+     font-size: 10px;     
+}
+
+.name{
+    line-height: 0px;
+    font-size: 28px;
+    font-weight: bolder;
+    text-align: center;
+
+}
+
+.property{
+    padding: 1px;
+    line-height: 0px;
+    font-size:12px ;
+    text-align: center;
+
+}
+.box1{
+    background-color: rgb(60, 222, 173);
+}
+.box2{
+    background-color: rgb(250, 5, 9);
+}
+.box3{
+    background-color:rgb(253, 89, 13);
+}
+.box4{
+    background-color: yellow;
+}
+.box5{
+    background-color: rgb(149, 9, 224 );
+}
+.box6{
+    background-color: rgb(180, 54, 247 );
+}
+.box7{
+    background-color: rgb(22, 208, 250);
+}
+.box8{
+    background-color: rgb(20, 116, 250);
+}
+.box9{
+    background-color: rgb(3, 161, 71);
+}
+.box10{
+    background-color: rgb(237, 26, 198);
+}
+.box11{
+    background-color: rgb(43, 176, 194);
+}
